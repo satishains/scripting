@@ -1,6 +1,6 @@
 #!/bin/bash
-PET1=dog
-PET2=cat
+PET1=satish
+PET2=sailaja
 echo "hello $PET2 how are you"
 echo "hi $PET1 iam great"
 echo "lets play in the ground $PET1"
